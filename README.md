@@ -1,16 +1,16 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : [Daru Okta Buana]  
+NIU : [465397]  
+Sesi : [Senin 07.00]  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
 
 Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 
-- [ ] Membuat SSH Key pada mesin lokal (komputer laboratorium).
-- [ ] Melakukan pembuatan dan konfigurasi _virtual machine_.
+- [x] Membuat SSH Key pada mesin lokal (komputer laboratorium).
+- [x] Melakukan pembuatan dan konfigurasi _virtual machine_.
 - [ ] Terhubung dengan _virtual machine_ menggunakan SSH.
 - [ ] Melakukan _fork_ dan _clone_ _repository_.
 - [ ] Meng-_generate_ _secret string_
